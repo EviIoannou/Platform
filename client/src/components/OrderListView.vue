@@ -87,7 +87,6 @@
                             <!-- Products already defined in items() -->
                             <!-- <td>{{sumProducts(item)}}</td> -->
                             <td>{{item.products}}</td>
-                            
                         </tr>
                     </tbody>
                 </template>
